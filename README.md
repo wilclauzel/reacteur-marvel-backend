@@ -111,3 +111,11 @@ This project was carried out in a limited time with predefined guidelines. Also,
 ## Inspiration
 
 [official marvel website](https://www.marvel.com/).
+
+## 📈 Stats
+
+<br>
+<br> 
+<img align="center" src="https://wilclauzel-activitycounter.herokuapp.com/counter/GitHub/MarvelS?kind=SVG"/>
+<br>
+<br>
